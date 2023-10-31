@@ -89,8 +89,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Mujib7654/TrendSetters" title="TrendSetters"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mujib7654&repo=
-TrendSetters&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Mujib7654/AIWiz-Suite" title="AIWiz-Suite"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mujib7654&repo=AIWiz-Suite&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Mujib7654/Glimpse-Meet" title="Glimpse-Meet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mujib7654&repo=Glimpse-Meet&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Mujib7654/AIWiz-Suite" title="AIWiz-Suite"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mujib7654&repo=AIWiz-Suite&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
