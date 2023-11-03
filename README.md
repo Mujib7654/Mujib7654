@@ -1,4 +1,4 @@
-<div bgcolor='black'>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mujib7654.Mujib7654">
 
 <h1 align="center">
@@ -107,4 +107,4 @@
 <h4 align="center">
   <a href="https://github.com/Mujib7654?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-</div>
+
